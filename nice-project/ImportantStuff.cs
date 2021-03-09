@@ -1,4 +1,4 @@
-namespace NiceProject
+Onamespace NiceProject
 {
     using System;
     using System.Collections.Generic;
@@ -23,6 +23,7 @@ namespace NiceProject
             }
 
             return sum;
+
         }
     }
 }
